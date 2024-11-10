@@ -19,4 +19,4 @@ Este projeto faz parte de um desafio proposto pela DIO para a criação de um po
 Esse desafio reforçou a importância de discutir ética na tecnologia. A inteligência artificial, quando bem direcionada, pode ser uma força positiva na sociedade, mas é crucial entender e minimizar os vieses que surgem durante seu desenvolvimento. Este podcast é uma pequena contribuição para fomentar o diálogo sobre IA e responsabilidade.
 
 ## 🌐 Acessar Podcast
-[Acesse o podcast aqui!](https://seulinkdopodcast.com)
+[Acesse o podcast aqui!](https://github.com/andrederis/DIO-desafio-podcast/blob/main/DIO-desafio-podcast.wav)
